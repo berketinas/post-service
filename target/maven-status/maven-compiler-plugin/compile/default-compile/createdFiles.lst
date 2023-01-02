@@ -1,0 +1,7 @@
+com\berketinas\sm\postservice\service\PostService.class
+com\berketinas\sm\postservice\controller\PostController.class
+com\berketinas\sm\postservice\PostServiceApplication.class
+com\berketinas\sm\postservice\ServletInitializer.class
+com\berketinas\sm\postservice\domain\Post.class
+com\berketinas\sm\postservice\dto\IPostDTO.class
+com\berketinas\sm\postservice\repo\PostRepository.class
